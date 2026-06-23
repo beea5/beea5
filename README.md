@@ -37,7 +37,9 @@ Desenvolvedora Full-Stack com experiência no desenvolvimento de sistemas corpor
 
 **Contribuições:** modernização das interfaces com Bootstrap e compatibilidade com leitores ópticos de código de barras; tratamento de exceções e painéis de erro para notas duplicadas e restrições cadastrais; e manutenção de consultas PostgreSQL para relatórios analíticos volumosos.
 
-## Projetos públicos
+## Projetos acadêmicos e públicos
+
+Projetos desenvolvidos durante a graduação, com foco em aplicar tecnologias de desenvolvimento mobile, back-end, APIs e integração de dados.
 
 ### [SaborBR App](https://github.com/beea5/SaborBR_App)
 Aplicativo mobile para pedidos de marmitas. Reúne catálogo, cadastro, autenticação, cálculo de frete e fluxo de pedidos.
